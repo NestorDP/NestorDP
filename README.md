@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img width="30%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4739.gif"/>
+<img width="35%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4739.gif"/>
 <br />
 <br />
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
