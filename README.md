@@ -34,15 +34,18 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** or <a href="mailto:nestor-dp@hotmail.com"><b>send me an email</b></a>.
 <br />
 <br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorDP&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NestorDP&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
 <br />
 <br />
+  
+<p align="left">
+<a href="https://abhigyantrips.dev/">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NestorDP&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorDP&theme=gruvbox&hide_border=true" />
+</a>
+</p>
 
-**Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=NestorDP&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)**
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorDP&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 <br />
 <br />
 <br />
