@@ -24,15 +24,14 @@ I have a degree in Electronic Engineering (2013) and a specialization in Biomedi
 
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorDP&layout=compact&theme=gotham&bg_color=0A0A0A" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorDP&layout=compact&theme=gotham&hide_border=true" alt="Top Languages"/>
 
 <br />
 <br />
   
 <p align="left">
-<a href="https://abhigyantrips.dev/">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NestorDP&show_icons=true&theme=gotham&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorDP&theme=gotham&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NestorDP&show_icons=true&theme=gotham&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorDP&theme=gotham&hide_border=true" />
 </a>
 </p>
 
