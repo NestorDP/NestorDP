@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img width="35%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4739.gif" />
+<img width="35%" alt="Matrix Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4739.gif" />
 <br />
 <br />
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
@@ -44,10 +44,11 @@ localization and navigation.
 
 ## My Statistics
 
-<img width="20%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif"/>
+<img width="20%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif" />
 <br />
 <br />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestorDP&layout=compact&theme=gotham&hide_border=true" alt="Top Languages"/> 
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NestorDP&theme=vue" alt="Top Languages"/>
+<!-- http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NestorDP&theme=vue -->
 <br />
 <br />  
 <p align="left">
