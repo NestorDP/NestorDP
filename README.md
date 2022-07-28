@@ -17,8 +17,30 @@
 
 <br />
 <br />
+<p align="left">
+<!--START_SECTION:waka-->
 
-I have a degree in Electronic Engineering (2013) and a specialization in Biomedical Engineering (2019). I have experience in the maintenance of diagnostic imaging hospital equipment. In 2011, I started to work as a teacher in technical and higher education courses. I am currently finishing my Masters in Electrical Engineering at the Federal University of Bahia in the area of computing and robotics. Since 2019 I have had the pleasure of working in research and development in the field of robotics. Main areas of interest: C/C++ Programming; Embedded systems; Real-time systems and Mobile robotics localization and navigation.
+
+<!--![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)-->
+
+
+```text
+I have a degree in Electronic Engineering (2013) and a specialization in Biomedical Engineering (2019). 
+I have experience in the maintenance of diagnostic imaging hospital equipment. In 2011, I started 
+to work as a teacher in technical and higher education courses. I am currently finishing my Masters 
+in Electrical Engineering at the Federal University of Bahia in the area of computing and robotics. 
+Since 2019 I have had the pleasure of working in research and development in the field of robotics. 
+Main areas of interest: C/C++ Programming; Embedded systems; Real-time systems and Mobile robotics 
+localization and navigation.
+
+```
+
+
+<!--END_SECTION:waka-->
+  
+</p>  
+
+  
 
 ## My Statistics
 
@@ -32,7 +54,7 @@ I have a degree in Electronic Engineering (2013) and a specialization in Biomedi
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NestorDP&show_icons=true&theme=gotham&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorDP&theme=gotham&hide_border=true" />
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=NestorDP&theme=gotham&hide_border=true&area=tru" />
+<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=NestorDP&theme=gotham&hide_border=true&area=tru" />
 
 <br />
 <br />
