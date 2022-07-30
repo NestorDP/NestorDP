@@ -36,7 +36,7 @@ Real-time systems and Mobile robotics localization and navigation.
 <div align="center">
 <h2>My Statistics</h2>
 
-<img width="20%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif" />
+<img width="21%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif" />
 <br />
 <br />
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NestorDP&theme=vue" alt="Top Languages"/>
@@ -50,10 +50,16 @@ Real-time systems and Mobile robotics localization and navigation.
 <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=NestorDP&theme=gotham&hide_border=true&area=tru" />
 
 <br />
+<!--
+<h2> My languagens and Tools </h2>
+<img width="21%" alt="Matrix Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4734.gif" />
+-->
+  
 <br />
 <br />
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+<img width="12%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4737.gif" />
+<br />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue" />
   
 **Happy Coding!** 😊
 </div>
