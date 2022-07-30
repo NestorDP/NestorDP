@@ -17,32 +17,24 @@
 
 <br />
 <br />
-<p align="left">
+</div>
+
 <!--START_SECTION:waka-->
-
-
-<!--![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)-->
-
-
 ```text
-I have a degree in Electronic Engineering (2013) and a specialization in Biomedical Engineering (2019). 
-I have experience in the maintenance of diagnostic imaging hospital equipment. In 2011, I started 
-to work as a teacher in technical and higher education courses. I am currently finishing my Masters 
-in Electrical Engineering at the Federal University of Bahia in the area of computing and robotics. 
-Since 2019 I have had the pleasure of working in research and development in the field of robotics. 
-Main areas of interest: C/C++ Programming; Embedded systems; Real-time systems and Mobile robotics 
-localization and navigation.
+I have a degree in Electronic Engineering (2013) and a specialization in 
+Biomedical Engineering (2019). I have experience in the maintenance of diagnostic
+imaging hospital equipment. In 2011, I started to work as a teacher in technical 
+and higher education courses. I am currently finishing my Masters in Electrical 
+Engineering at the Federal University of Bahia in the area of computing and robotics. 
+Since 2019 I have had the pleasure of working in research and development in the 
+field of robotics. Main areas of interest: C/C++ Programming; Embedded systems; 
+Real-time systems and Mobile robotics localization and navigation.
 
 ```
-
-
 <!--END_SECTION:waka-->
-  
-</p>  
 
-  
-
-## My Statistics
+<div align="center">
+<h2>My Statistics</h2>
 
 <img width="20%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif" />
 <br />
@@ -61,6 +53,8 @@ localization and navigation.
 <br />
 <br />
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
   
 **Happy Coding!** 😊
+</div>
 
