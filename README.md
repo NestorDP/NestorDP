@@ -4,22 +4,10 @@
 
 <div align="center">
 <img width="35%" alt="Matrix Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4739.gif" />
-  
-<br />
-<!-- 
-<a href="https://www.linkedin.com/in/nestorpneto/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="https://www.instagram.com/nestordpn/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=flat&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
- -->
-  
 </div>
 
 <!--<h1> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>-->
-<h1> <img src="https://img.shields.io/badge/Hi%20There-Welcome%20to%20my%20Github%20profile-125740?style=for-the-badge" /> </h1>
+<h1> <img src="https://img.shields.io/badge/Hi%20There%E2%80%9A-Welcome%20to%20my%20Github%20profile%21-125740?style=for-the-badge" /> </h1>
 
 
 <!--START_SECTION:waka-->
@@ -34,9 +22,6 @@ field of robotics. Main areas of interest: C/C++ Programming; Embedded systems;
 Real-time systems and Mobile robotics localization and navigation.
 ```
 <!--END_SECTION:waka-->
-
-
-<!-- <h2>My Statistics</h2> -->
   
 <h2> <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" /> </h2>
 
@@ -64,13 +49,11 @@ Real-time systems and Mobile robotics localization and navigation.
 <br />
 <img width="12%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4737.gif" />
 <br />
-<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-125740" />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code%21-125740" />
   
 <!--<img src="https://img.shields.io/badge/text-blue.svg?logo=3M" />-->
 
-
 <br />
-
   
 <a href="https://www.linkedin.com/in/nestorpneto/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -79,7 +62,6 @@ Real-time systems and Mobile robotics localization and navigation.
 <a href="https://www.instagram.com/nestordpn/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=flat&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-  
-<!--  **Happy Coding!** 😊 -->
+
 </div>
 
