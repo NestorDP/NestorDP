@@ -26,11 +26,11 @@ Real-time systems and Mobile robotics localization and navigation.
 <h2> <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" /> </h2>
 
 <div align="center">
-<img width="21%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif" />
+<!--<img width="21%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif" />-->
 <br />
 <br />
-<img width="29.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NestorDP&theme=vue" alt="Top Languages"/>
-<!-- http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NestorDP&theme=vue -->
+<img width="37.6%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NestorDP&theme=vue" alt="Top Languages"/>
+<img width="37.6%" src=http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NestorDP&theme=vue  alt="com Languages"/>
 <br />
 <br />  
 <p align="center">
@@ -47,7 +47,7 @@ Real-time systems and Mobile robotics localization and navigation.
   
 <br />
 <br />
-<img width="12%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4737.gif" />
+<img width="15%" alt="hello world Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4737.gif" />
 <br />
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code%21-125740" />
   
