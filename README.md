@@ -22,9 +22,11 @@ field of robotics. Main areas of interest: C/C++ Programming; Embedded systems;
 Real-time systems and Mobile robotics localization and navigation.
 ```
 <!--END_SECTION:waka-->
-  
-<h2> <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" /> </h2>
 
+<!--
+Statistics
+============================================= -->
+<h2> <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" /> </h2>
 <div align="center">
 <!--<img width="21%" alt="Developer Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif" />-->
 <br />
@@ -38,27 +40,41 @@ Real-time systems and Mobile robotics localization and navigation.
   <img width="37.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorDP&theme=gotham&hide_border=true" />
 </p>
 <img width="75.6%" src="https://activity-graph.herokuapp.com/graph?username=NestorDP&theme=gotham&hide_border=true&area=tru" />
-
 <br />
-<!--
-<h2> My languagens and Tools </h2>
-<img width="21%" alt="Matrix Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4734.gif" />
--->
+<br />
+<br />
   
+<!--
+languagens and tools
+============================================= -->
+<!--
+<h2><img src="https://img.shields.io/badge/My-languagens%20and%20Tools-125740?style=for-the-badge" /> </h2>
+<img width="21%" alt="Matrix Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4734.gif" />
+<img src="https://img.shields.io/badge/text-blue.svg?logo=3M" />
 <br />
+-->
+
+
+<!--
+languagens and tools
+============================================= -->
+<!--
+<h2><img src="https://img.shields.io/badge/My-Personal%20Works-125740?style=for-the-badge" /> </h2>
+<img width="21%" alt="Matrix Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4734.gif" />
+<img src="https://img.shields.io/badge/text-blue.svg?logo=3M" />
 <br />
+-->
+
+<!--
+baseboad
+============================================= -->
 <img width="15%" alt="hello world Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4737.gif" />
 <br />
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code%21-125740" />
-  
-<!--<img src="https://img.shields.io/badge/text-blue.svg?logo=3M" />-->
-
-<br />
-  
+<br />  
 <a href="https://www.linkedin.com/in/nestorpneto/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
+</a>  
 <a href="https://www.instagram.com/nestordpn/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=flat&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
