@@ -40,7 +40,7 @@ Statistics
   <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=NestorDP&show_icons=true&theme=gotham&hide_border=true" />
   <img width="37.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorDP&theme=gotham&hide_border=true" />
 </p>
-<img width="75.6%" src="https://activity-graph.herokuapp.com/graph?username=NestorDP&theme=gotham&hide_border=true&area=tru" />
+<!-- <img width="75.6%" src="https://activity-graph.herokuapp.com/graph?username=NestorDP&theme=gotham&hide_border=true&area=tru" /> -->
 <br />
 <br />
 <br />
