@@ -17,7 +17,7 @@ I have a degree in Electronic Engineering (2013) and a specialization in
 Biomedical Engineering (2019). I have experience in the maintenance of diagnostic
 imaging hospital equipment. In 2011, I started to work as a teacher in technical 
 and higher education courses. I am Master in Electrical Engineering at the 
-Federal University of Bahia in the area of computing and robotics. Since 2019 
+Federal University of Bahia in the area of computing and robotics(2022). Since 2019 
 I have had the pleasure of working in research and development in the field of 
 robotics. Main areas of interest: C/C++ Programming; Embedded systems; Real-time 
 systems and Mobile robotics localization and navigation.
