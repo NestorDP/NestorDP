@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 -->
-
 
 <!--
 <div align="center">
@@ -7,23 +5,25 @@
 </div>
 -->
 
-<!--<h1> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>-->
+<!--
 <h1> <img src="https://img.shields.io/badge/Hi%20There%E2%80%9A-Welcome%20to%20my%20Github%20profile%21-125740?style=for-the-badge" /> </h1>
+-->
 
+<div align="center">
+  <img width="20%" alt="Matrix Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4739.gif" />
+</div>
 
-<!--START_SECTION:waka-->
-```text
-I have a degree in Electronic Engineering (2013) and a specialization in 
-Biomedical Engineering (2019). I have experience in the maintenance of diagnostic
-imaging hospital equipment. In 2011, I started to work as a teacher in technical 
-and higher education courses. I am Master in Electrical Engineering at the 
-Federal University of Bahia in the area of computing and robotics(2022). Since 2019 
-I have had the pleasure of working in research and development in the field of 
-robotics. Main areas of interest: C/C++ Programming; Embedded systems; Real-time 
-systems and Mobile robotics localization and navigation.
-```
-<!--END_SECTION:waka-->
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  </a>
 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&weight=500&size=31&pause=1000&color=035D10&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+  
+</p>
+
+<br>
 
 
 <!--
@@ -48,51 +48,40 @@ languagens and tools
   <br />
   <br />
   
-  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NestorDP&theme=vue" alt="Top Languages"/>
-  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NestorDP&theme=vue"  alt="com Languages"/>
+  <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NestorDP&theme=vue" alt="Top Languages"/>
+  <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NestorDP&theme=vue"  alt="com Languages"/>
 </p>
-
-<br />
-<br />
 
 
 <!--
 Statistics
 ============================================= -->
-<img width="11%" alt="Statistic Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif" />
-<!-- <h2> <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" /> </h2> -->
-<img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" />
+## <picture><img width="11%" alt="Code Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif"></picture> <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" />
 
-
-
-<br />
-<br />  
 <p align="center">
   <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=NestorDP&show_icons=true&theme=gotham&hide_border=true" />
-  <img width="37.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorDP&theme=gotham&hide_border=true" />
+  <img width="39.752%" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorDP&theme=gotham&hide_border=true" />
 </p>
-
-
-<br />
-<br />
-<br />
-
-
 
 
 <!--
 baseboad
 ============================================= -->
+<!--
 <img width="15%" alt="hello world Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4737.gif" />
 <br />
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code%21-125740" />
-<br />  
-<a href="https://www.linkedin.com/in/nestorpneto/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.instagram.com/nestordpn/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=flat&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+<br />
+-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nestorpneto/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
+  <a href="https://www.instagram.com/nestordpn/" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=flat&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>
+</p>
 
-</div>
+
+
 
