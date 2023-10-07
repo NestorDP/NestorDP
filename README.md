@@ -69,10 +69,7 @@ languagens and tools
 <!--
 baseboad
 ============================================= -->
-<img width="15%" alt="hello world Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4737.gif" />
-<br />
-<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code%21-125740" />
-<br />  
+
 <a href="https://www.linkedin.com/in/nestorpneto/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
