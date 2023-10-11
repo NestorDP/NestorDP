@@ -8,10 +8,11 @@
 <!--
 <h1> <img src="https://img.shields.io/badge/Hi%20There%E2%80%9A-Welcome%20to%20my%20Github%20profile%21-125740?style=for-the-badge" /> </h1>
 -->
-
+<!--
 <div align="center">
   <img width="20%" alt="Matrix Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4739.gif" />
 </div>
+-->
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -24,9 +25,10 @@
 <!--
 languagens and tools
 ============================================= -->
-<!-- <h2> <img src="https://img.shields.io/badge/My-languagens%20and%20Tools-125740?style=for-the-badge" /> </h2> -->
-
+## <img src="https://img.shields.io/badge/My-languagens%20and%20Tools-125740?style=for-the-badge" />
+<!--
 ## <picture><img width="11%" alt="Code Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4734.gif"></picture> <img src="https://img.shields.io/badge/My-languagens%20and%20Tools-125740?style=for-the-badge" />
+-->
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -55,7 +57,11 @@ languagens and tools
 <!--
 Statistics
 ============================================= -->
+## <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" />
+
+<!--
 ## <picture><img width="11%" alt="Code Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif"></picture> <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" />
+-->
 
 <p align="center">
   <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=NestorDP&show_icons=true&theme=gotham&hide_border=true" />
@@ -73,12 +79,18 @@ baseboad
 <br />
 -->
 <p align="center">
+  <a href="https://www.nestor.eng.br" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Wwww-Nestor.Eng.Br-125740?style=for-the-badge" />  </a>
+  
+  <!--
   <a href="https://www.linkedin.com/in/nestorpneto/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
+  </a>
+  -->
+  <!--
   <a href="https://www.instagram.com/nestordpn/" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=flat&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
+  -->
 </p>
 
 
