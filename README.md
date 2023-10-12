@@ -25,7 +25,7 @@
 <!--
 languagens and tools
 ============================================= -->
-## <img src="https://img.shields.io/badge/My-languagens%20and%20Tools-125740?style=for-the-badge" />
+## My languagens and tools
 <!--
 ## <picture><img width="11%" alt="Code Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4734.gif"></picture> <img src="https://img.shields.io/badge/My-languagens%20and%20Tools-125740?style=for-the-badge" />
 -->
@@ -57,7 +57,7 @@ languagens and tools
 <!--
 Statistics
 ============================================= -->
-## <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" />
+## My Statistics
 
 <!--
 ## <picture><img width="11%" alt="Code Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif"></picture> <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" />
