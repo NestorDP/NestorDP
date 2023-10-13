@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=198834&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+Engineer;++;Master+Degree+in+Computing+and+Robotic;PhD+Student;Bazilian+Institute+of+Robotic+Researcher">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=198834&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+Engineer;Master+Degree+in+Computing+and+Robotic;PhD+Student;Bazilian+Institute+of+Robotic+Researcher">
   </a>
 </p>
 
