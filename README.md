@@ -78,8 +78,10 @@ baseboad
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code%21-125740" />
 <br />
 -->
+<!--
 <p align="center">
   <a href="https://www.nestor.eng.br" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Www-Nestor.Eng.Br-125740?style=for-the-badge" />  </a>
+  -->
   
   <!--
   <a href="https://www.linkedin.com/in/nestorpneto/" target="_blank">
