@@ -48,10 +48,10 @@ languagens and tools
 
   <br />
   <br />
-  <!--
+
   <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NestorDP&theme=vue" alt="Top Languages"/>
   <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NestorDP&theme=vue"  alt="com Languages"/>
-  -->
+
 </p>
 
 
@@ -63,12 +63,12 @@ Statistics
 <!--
 ## <picture><img width="11%" alt="Code Illustration" src="https://github.com/NestorDP/NestorDP/blob/main/git_dev/file_4750.gif"></picture> <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" />
 -->
-<!--
+
 <p align="center">
   <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=NestorDP&show_icons=true&theme=gotham&hide_border=true" />
   <img width="39.752%" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorDP&theme=gotham&hide_border=true" />
 </p>
--->
+
 
 
 <!--
